@@ -8,11 +8,11 @@ This is a practice Github repository
 - [x] 2.) Clone the forked copy of your repository to your local computer  
 - [x] 3.) Open the repository in your preferred text editor (I like Sublime)  
 - [x] 4.) Add an 'x' to the steps you've completed, and save  
-- [X] 5.) Add a commit message and 'Commit to master'  
-- [X] 6.) Push commit to Github. Do you see them reflected in your repository?  
-- [X] 7.) Open Project in R Studio  
-- [ ] 8.) Create an R script file with some R code + save  
-- [ ] 9.) Commit changes and push to Github  
+- [x] 5.) Add a commit message and 'Commit to master'  
+- [x] 6.) Push commit to Github. Do you see them reflected in your repository?  
+- [x] 7.) Open Project in R Studio  
+- [x] 8.) Create an R script file with some R code + save  
+- [x] 9.) Commit changes and push to Github  
 
 ### Good Resources:  
 - https://blog.scottlowe.org/2015/01/14/non-programmer-git-intro/  
